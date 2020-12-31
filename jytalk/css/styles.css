@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import "reset.css";
+/*components*/
+@import "components/status-bar.css";
+/*screens*/
+@import "screens/index.css";
+
+body{
+    font-family: 'Shadows Into Light', cursive;
+    height: 1000vh;
+}
+
+
+
+
+
